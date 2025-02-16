@@ -33,6 +33,10 @@
 ## 📲 下载
 通过 **[Google Play Store](https://play.google.com/store/apps/details?id=site.mises.browser)** 下载扩展。
 
+如何使用： 上截图：
+![image](https://github.com/user-attachments/assets/4da7414a-58bc-411e-b761-27b2eb982489)
+
+
 ## 🤝 制作人员
 联系方式：TG：@koinda00
 
